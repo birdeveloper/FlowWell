@@ -1,6 +1,5 @@
 package com.birdeveloper.flowwell.ui.components
 
-import androidx.annotation.DrawableRes
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -21,8 +20,8 @@ import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import com.birdeveloper.flowwell.R
+import com.birdeveloper.flowwell.data.CollectionItem
 
-data class CollectionItem(val title: String, @DrawableRes val imageRes: Int)
 
 val featuredCollections = listOf(
     CollectionItem("Mindfulness", R.drawable.mindfulness_image),

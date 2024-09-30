@@ -1,6 +1,5 @@
 package com.birdeveloper.flowwell.ui.components
 
-import androidx.annotation.DrawableRes
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Arrangement
@@ -18,8 +17,8 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import com.birdeveloper.flowwell.R
+import com.birdeveloper.flowwell.data.Category
 
-data class Category(val name: String, @DrawableRes val imageRes: Int)
 
 val categories = listOf(
     Category("Yoga", R.drawable.yoga_image),
