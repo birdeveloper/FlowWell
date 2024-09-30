@@ -67,7 +67,6 @@ To learn more about how this app was built and to gain insights into building ap
 📸 Screenshots
 <p align="center">
   <img src="screenshot1.png" alt="Portrait Mode" width="250"/>
-  <img src="screenshot2.png" alt="Landscape Mode" width="399"/>
 </p>
 
 🤖 Built With
