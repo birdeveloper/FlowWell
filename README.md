@@ -84,5 +84,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-<p align="center">Made with ❤️ by <a href="https://github.com/birdeveloper">Görkem KARA</a></p>
-```
+<p align="center">Made with ❤️ by <a href="https://gorkemkara.net/">Görkem KARA</a></p>
